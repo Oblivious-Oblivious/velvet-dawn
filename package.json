@@ -1,0 +1,26 @@
+{
+  "name": "velvet-dawn",
+  "displayName": "Velvet Dawn",
+  "description": "A minimalistic, pastel-heavy, high-contrast theme, inspired by E-Ink.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velvet Dawn Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/velvet-dawn-light.json"
+      },
+      {
+        "label": "Velvet Dawn Dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/velvet-dawn-dark.json"
+      }
+    ]
+  }
+}
