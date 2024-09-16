@@ -3,7 +3,7 @@
   "name": "velvet-dawn",
   "displayName": "Velvet Dawn",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "velvet",
     "dawn"
   ],
-  "description": "A minimalistic, pastel-heavy, high-contrast theme, inspired by E-Ink.",
+  "description": "A minimalistic, pastel-heavy, high-contrast theme for removing distractions.",
   "engines": {
     "vscode": "^1.80.0"
   },
