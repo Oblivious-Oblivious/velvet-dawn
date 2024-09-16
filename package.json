@@ -1,8 +1,22 @@
 {
+  "publisher": "oblivious",
   "name": "velvet-dawn",
   "displayName": "Velvet Dawn",
+  "license": "MIT",
+  "version": "1.0.1",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oblivious-Oblivious/vscode-theme-velvet-dawn"
+  },
+  "package": "353e002b-7bff-69cb-990e-8a63b105f6a4a",
+  "keywords": [
+    "theme",
+    "color scheme",
+    "velvet",
+    "dawn"
+  ],
   "description": "A minimalistic, pastel-heavy, high-contrast theme, inspired by E-Ink.",
-  "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
   },
