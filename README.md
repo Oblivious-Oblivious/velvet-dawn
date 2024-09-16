@@ -1,16 +1,11 @@
-# velvet-dawn README
+# Velvet Dawn Theme for VSCode
 
-## Working with Markdown
+<a href="https://marketplace.visualstudio.com/manage/publishers/oblivious/extensions/velvet-dawn/hub?_a=acquisition" target="_blank"><img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/oblivious.velvet-dawn?logo=visual-studio-code&logoColor=ffffff&label=Velvet%20Dawn%20Theme&labelColor=000000&color=dddddd" /></a>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Velvet Dawn Light
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Velvet Dawn Light](./images/light.png)
 
-## For more information
+## Velvet Dawn Dark
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Velvet Dawn Dark](./images/dark.png)
